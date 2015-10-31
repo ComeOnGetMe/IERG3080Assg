@@ -1,0 +1,12 @@
+/Users/AlanYAN/Projects/Form1/IERG3080/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/AlanYAN/Projects/Form1/IERG3080/obj/x86/Debug/IERG3080.gtk-gui.gui.stetic
+/Users/AlanYAN/Projects/Form1/IERG3080/bin/Debug/IERG3080.exe.mdb
+/Users/AlanYAN/Projects/Form1/IERG3080/bin/Debug/IERG3080.exe
+/Users/AlanYAN/Projects/Form1/IERG3080/obj/x86/Debug/IERG3080.exe
+/Users/AlanYAN/Projects/Form1/IERG3080/obj/x86/Debug/IERG3080.exe.mdb
+/Users/AlanYAN/Projects/IERG3080Assg/IERG3080/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/AlanYAN/Projects/IERG3080Assg/IERG3080/obj/x86/Debug/IERG3080.gtk-gui.gui.stetic
+/Users/AlanYAN/Projects/IERG3080Assg/IERG3080/obj/x86/Debug/IERG3080.exe
+/Users/AlanYAN/Projects/IERG3080Assg/IERG3080/obj/x86/Debug/IERG3080.exe.mdb
+/Users/AlanYAN/Projects/IERG3080Assg/IERG3080/bin/Debug/IERG3080.exe.mdb
+/Users/AlanYAN/Projects/IERG3080Assg/IERG3080/bin/Debug/IERG3080.exe

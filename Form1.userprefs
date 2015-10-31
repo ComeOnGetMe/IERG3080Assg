@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="IERG3080/IERG3080.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IERG3080/MyReader.cs">
+    <Files>
+      <File FileName="IERG3080/MyReader.cs" Line="61" Column="4" />
+      <File FileName="IERG3080/Account.cs" Line="19" Column="55" />
+      <File FileName="IERG3080/Transaction.cs" Line="23" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
